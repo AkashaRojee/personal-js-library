@@ -15,7 +15,7 @@ function createElement(elementType, classNames = '', attributes = {}, innerHTML 
 
 createElement(
 
-  tag name,
+  'tagName',
   
   'class1 class2 class3 ...',
   
