@@ -6,12 +6,12 @@ function addListeners(elements, listeners) {
   });
 }
 
-addListeners(
-  elementsArray,
-  {
-    event.type: listener,
-    event.type: listener,
-    event.type: listener,
-    //and so on
-  }
-);
+// addListeners(
+//   elementsArray,
+//   {
+//     event.type: listener,
+//     event.type: listener,
+//     event.type: listener,
+//     //and so on
+//   }
+// );
